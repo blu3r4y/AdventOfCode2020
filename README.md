@@ -6,7 +6,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 
 ## Challenges
 
-- **[Day 1: ...](https://adventofcode.com/2020/day/1)** - [Python Solution](src/day1.py)
+- **[Day 1: Report Repair](https://adventofcode.com/2020/day/1)** - [Python Solution](src/day1.py)
 
 ## Requirements
 
