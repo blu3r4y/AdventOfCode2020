@@ -13,6 +13,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 - **[Day 5: Binary Boarding](https://adventofcode.com/2020/day/5)** - [Python Solution](src/day5.py)
 - **[Day 6: Custom Customs](https://adventofcode.com/2020/day/6)** - [Python Solution](src/day6.py)
 - **[Day 7: Handy Haversacks](https://adventofcode.com/2020/day/7)** - [Python Solution](src/day7.py)
+- **[Day 8: Handheld Halting](https://adventofcode.com/2020/day/8)** - [Python Solution](src/day8.py)
 
 ## Requirements
 
