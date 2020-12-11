@@ -1,7 +1,7 @@
-advent-of-code-data==0.9.3
-matplotlib==3.3.3
-networkx==2.5
-funcy==1.15
-numpy==1.19.3
-parse==1.18.0
-sympy==1.7
+advent-of-code-data>=0.9
+matplotlib>=3.3
+networkx>=2.5
+funcy>=1.15
+numpy>=1.19
+parse>=1.18
+sympy>=1.7
