@@ -17,6 +17,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 - **[Day 9: Encoding Error](https://adventofcode.com/2020/day/9)** - [Python Solution](src/day9.py)
 - **[Day 10: Adapter Array](https://adventofcode.com/2020/day/10)** - [Python Solution](src/day10.py)
 - **[Day 11: Seating System](https://adventofcode.com/2020/day/11)** - [Python Solution](src/day11.py)
+- **[Day 12: Rain Risk](https://adventofcode.com/2020/day/12)** - [Python Solution](src/day12.py)
 
 ## Requirements
 
