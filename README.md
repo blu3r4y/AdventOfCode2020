@@ -20,6 +20,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 - **[Day 12: Rain Risk](https://adventofcode.com/2020/day/12)** - [Python Solution](src/day12.py)
 - **[Day 13: Shuttle Search](https://adventofcode.com/2020/day/13)** - [Python Solution](src/day13.py)
 - **[Day 14: Docking Data](https://adventofcode.com/2020/day/14)** - [Python Solution](src/day14.py)
+- **[Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)** - [Python Solution](src/day15.py)
 
 ## Requirements
 
