@@ -5,3 +5,4 @@ funcy>=1.15
 numpy>=1.19
 parse>=1.18
 sympy>=1.7
+lark>=0.11
