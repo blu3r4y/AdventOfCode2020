@@ -22,6 +22,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 - **[Day 14: Docking Data](https://adventofcode.com/2020/day/14)** - [Python Solution](src/day14.py)
 - **[Day 15: Rambunctious Recitation](https://adventofcode.com/2020/day/15)** - [Python Solution](src/day15.py)
 - **[Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)** - [Python Solution](src/day16.py)
+- **[Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)** - [Python Solution](src/day17.py)
 - ...
 - **[Day 23: Crab Cups](https://adventofcode.com/2020/day/23)** - [Python Solution](src/day23.py)
 
