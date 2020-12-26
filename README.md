@@ -24,6 +24,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 - **[Day 16: Ticket Translation](https://adventofcode.com/2020/day/16)** - [Python Solution](src/day16.py)
 - **[Day 17: Conway Cubes](https://adventofcode.com/2020/day/17)** - [Python Solution](src/day17.py)
 - **[Day 18: Operation Order](https://adventofcode.com/2020/day/18)** - [Python Solution](src/day18.py)
+- **[Day 19: Monster Messages](https://adventofcode.com/2020/day/19)** - [Python Solution](src/day19.py)
 - ...
 - **[Day 23: Crab Cups](https://adventofcode.com/2020/day/23)** - [Python Solution](src/day23.py)
 

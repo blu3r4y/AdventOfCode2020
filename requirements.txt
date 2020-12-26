@@ -1,6 +1,7 @@
 advent-of-code-data>=0.9
 matplotlib>=3.3
 networkx>=2.5
+pyrecord>=1.0
 funcy>=1.15
 numpy>=1.19
 parse>=1.18
