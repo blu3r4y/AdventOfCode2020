@@ -27,7 +27,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 - **[Day 19: Monster Messages](https://adventofcode.com/2020/day/19)** - [Python Solution](src/day19.py)
 - ...
 - **[Day 21: Allergen Assessment](https://adventofcode.com/2020/day/21)** - [Python Solution](src/day21.py)
-- ...
+- **[Day 22: Crab Combat](https://adventofcode.com/2020/day/22)** - [Python Solution](src/da22.py)
 - **[Day 23: Crab Cups](https://adventofcode.com/2020/day/23)** - [Python Solution](src/day23.py)
 
 ## Requirements
