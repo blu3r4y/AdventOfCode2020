@@ -27,7 +27,7 @@ My solutions for the [AoC 2020](https://adventofcode.com/2020) challenges, writt
 | 17 | **[Conway Cubes](https://adventofcode.com/2020/day/17)** | :snake: [day17.py](src/day17.py) |
 | 18 | **[Operation Order](https://adventofcode.com/2020/day/18)** | :snake: [day18.py](src/day18.py) |
 | 19 | **[Monster Messages](https://adventofcode.com/2020/day/19)** | :snake: [day19.py](src/day19.py) |
-| 20 | **[Jurassic Jigsaw](https://adventofcode.com/2020/day/20)** | TODO |
+| 20 | **[Jurassic Jigsaw](https://adventofcode.com/2020/day/20)** | :snake: [day20.py](src/day20.py) |
 | 21 | **[Allergen Assessment](https://adventofcode.com/2020/day/21)** | :snake: [day21.py](src/day21.py) |
 | 22 | **[Crab Combat](https://adventofcode.com/2020/day/22)** | :snake: [day22.py](src/day22.py) |
 | 23 | **[Crab Cups](https://adventofcode.com/2020/day/23)** | :snake: [day23.py](src/day23.py) |
